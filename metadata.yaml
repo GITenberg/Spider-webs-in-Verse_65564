@@ -1,11 +1,16 @@
 _repo: Spider-webs-in-Verse_65564
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65564-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Charles William
     gutenberg_agent_id: '53407'
     url: http://www.gutenberg.org/2009/agents/53407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65564#Spider-webs-in-Verse
 gutenberg_issued: '2021-06-08'
 gutenberg_type: Text
 identifiers:
